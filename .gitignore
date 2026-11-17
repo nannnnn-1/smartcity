@@ -1,0 +1,20 @@
+# dependencies / build
+node_modules/
+__pycache__/
+*.pyc
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# temporary render / preview dirs
+.dsh-office-*/
+video/raw/
+video/frames/
+video/finalframes/
+
+# large intermediate model outputs (kept in data/processed for reproducibility)

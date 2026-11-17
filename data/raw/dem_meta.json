@@ -1,0 +1,24 @@
+{
+  "source": "Mapzen Terrarium / AWS Open Data (SRTM+GMTED+ETOPO)",
+  "zoom": 15,
+  "crop_px": [
+    44,
+    36,
+    1442,
+    1020
+  ],
+  "shape": [
+    984,
+    1398
+  ],
+  "elev_min": -397.96875,
+  "elev_max": 162.28125,
+  "resolution_m": 4.411985844718531,
+  "bbox": [
+    114.04,
+    22.533,
+    114.1,
+    22.572
+  ],
+  "note": "Terrarium: elev = R*256 + G + B/256 - 32768"
+}
